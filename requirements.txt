@@ -1,0 +1,7 @@
+streamlit
+pdfminer.six
+docx2txt
+langchain
+chromadb
+sentence-transformers
+langchain-community
